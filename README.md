@@ -1,1 +1,4 @@
-# friendzone-backend
+#Backend CLI 
+MongoDB
+Express
+Node.js
